@@ -1,4 +1,3 @@
-# 💫 About Me:
 🚀 I’m currently working on  <br>Enterprise-level backend systems using NestJS, including government and SaaS platforms, with a focus on secure and scalable APIs  <br><br>👯 I’m looking to collaborate on  <br>AI-powered platforms, SaaS products, full-stack web applications, and open-source backend projects  <br><br>🤝 I’m looking for help with  <br>Advanced system design, cloud deployment strategies, and scaling backend architectures  <br><br>🌱 I’m currently learning  <br>Advanced NestJS patterns, backend performance optimization, and AI integration in web systems  <br><br>💬 Ask me about  <br>Full-stack development, REST & GraphQL APIs, NestJS, Node.js, MongoDB, PostgreSQL, authentication, and RBAC  <br><br>⚡ Fun fact  <br>I enjoy building backend systems that power real-world enterprise and government applications 🚀<br>
 
 
@@ -24,4 +23,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=waqasjafri512&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
