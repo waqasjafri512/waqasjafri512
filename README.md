@@ -1,23 +1,25 @@
 # 💫 About Me
 
+Hi, I'm **Muhammad Waqas Anjum** 👋  
+A **Full Stack Developer** with a strong focus on **backend architecture**, building **secure, scalable, and production-ready systems** for enterprise and government-level platforms.
+
 🚀 **Currently Working On**  
-Enterprise-grade backend systems using **NestJS** for government and SaaS platforms, focused on **security, scalability, and performance-driven APIs**.
+Enterprise-grade backend systems using **NestJS**, focusing on performance, security, and scalable API design.
 
 👯 **Open to Collaboration**  
-AI-powered products, SaaS platforms, system-heavy full-stack applications, and impactful open-source backend projects.
+AI-powered platforms, SaaS products, system-heavy web applications, and meaningful open-source backend projects.
 
-🤝 **Looking for Support In**  
-Advanced system design, cloud-native architectures, distributed systems, and large-scale backend deployments.
+🤝 **Looking for Help With**  
+Advanced system design, cloud-native architectures, distributed systems, and large-scale deployments.
 
 🌱 **Currently Learning**  
-Advanced NestJS patterns, backend performance tuning, cloud infrastructure, and AI integration within production systems.
+Advanced NestJS patterns, backend performance optimization, cloud infrastructure, and AI integration in production systems.
 
 💬 **Ask Me About**  
-Backend architecture, REST & GraphQL APIs, NestJS, Node.js, authentication & RBAC, database design, and performance optimization.
+Backend development, REST & GraphQL APIs, NestJS, Node.js, authentication & RBAC, database design, and performance tuning.
 
 ⚡ **Fun Fact**  
-I enjoy building backend systems that quietly power large-scale enterprise and government platforms — reliability over hype 🚀
-
+I enjoy building backend systems that quietly power real-world enterprise and government applications 🚀
 
 ---
 
@@ -28,7 +30,7 @@ I enjoy building backend systems that quietly power large-scale enterprise and g
 ---
 
 ## 🧠 Core Expertise
-**Backend Development • API Architecture • Secure Systems • Scalable Databases • Cloud-Ready Applications**
+**Backend Architecture • Secure APIs • Scalable Systems • Database Design • Cloud-Ready Applications**
 
 ---
 
@@ -60,36 +62,19 @@ I enjoy building backend systems that quietly power large-scale enterprise and g
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge)
 
-### Tooling
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge)
-
----
-
-## 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=waqasjafri512&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=waqasjafri512&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waqasjafri512&layout=compact&theme=dark)
-
 ---
 
 ## 🏆 Achievements & Recognition
 
 🦈 **Pull Shark**  
-Recognized for multiple merged pull requests, showcasing consistent contributions to shared repositories and collaborative development environments.
+Earned for successfully merging multiple pull requests, demonstrating strong collaboration and production-ready contributions.
 
 ⚡ **Quickdraw**  
-Acknowledged for swiftly resolving issues and pull requests, highlighting responsiveness, accountability, and efficient problem-solving.
-
-📈 **Professional Impact**  
-These achievements reflect strong collaboration skills, production-level coding standards, and effective use of Git-based workflows in real-world projects.
-
+Awarded for rapidly resolving issues and pull requests, reflecting responsiveness and ownership in development workflows.
 
 ---
 
-### ✍️ Dev Insight
+### ✍️ Developer Insight
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
