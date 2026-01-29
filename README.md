@@ -1,5 +1,3 @@
-# 💫 About Me
-
 Hi, I'm **Muhammad Waqas Anjum** 👋  
 A **Full Stack Developer** with a strong focus on **backend architecture**, building **secure, scalable, and production-ready systems** for enterprise and government-level platforms.
 
