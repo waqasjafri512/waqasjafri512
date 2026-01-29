@@ -75,8 +75,17 @@ I enjoy building backend systems that quietly power large-scale enterprise and g
 
 ---
 
-## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=waqasjafri512&theme=dark&no-frame=false)
+## 🏆 Achievements & Recognition
+
+🦈 **Pull Shark**  
+Recognized for multiple merged pull requests, showcasing consistent contributions to shared repositories and collaborative development environments.
+
+⚡ **Quickdraw**  
+Acknowledged for swiftly resolving issues and pull requests, highlighting responsiveness, accountability, and efficient problem-solving.
+
+📈 **Professional Impact**  
+These achievements reflect strong collaboration skills, production-level coding standards, and effective use of Git-based workflows in real-world projects.
+
 
 ---
 
