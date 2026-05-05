@@ -186,10 +186,20 @@ Currently working at **Softoo Technologies**, contributing to production systems
 </div>
 
 ---
+## 🏅 Achievements
 
 <div align="center">
 
-### ✍️ Dev Quote
+🏆 Pull Shark ×2
+⚡ YOLO
+🎯 Quickdraw
+
+</div>
+
+<div align="center">
+
+---
+## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br/>
